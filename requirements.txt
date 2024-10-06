@@ -1,0 +1,10 @@
+streamlit
+openai
+langchain
+langchain_community
+faiss-cpu
+tiktoken
+moviepy
+python-docx
+wordcloud
+matplotlib
